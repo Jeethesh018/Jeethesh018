@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on React & frontend projects<br>🌱 Learning DSA and advanced React<br>👯 Open to open-source collaboration<br>💬 Ask me about React & JavaScript<br>⚡ Fun fact: Clean UI code makes me happier than coffee ☕
+🔭 Working on React & frontend projects<br>🌱 DSA and advanced React<br>👯 Open to open-source collaboration<br>💬 Ask me about React & JavaScript<br>⚡ Fun fact: Clean UI code makes me happier than coffee ☕
 
 
 ## 🌐 Socials:
